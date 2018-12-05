@@ -1,0 +1,26 @@
+{
+	"author": "billthebluebot, Luther",
+	"build": "112314",
+	"category": [
+		"effects"
+	],
+	"context": "client",
+	"date": "2018-12-04",
+	"description": "Welcome to the slam jam.",
+	"display_name": "Slam Jam",
+	"forum": "https://forums.planetaryannihilation.com/threads/welcome-to-the-slam-jam.73114/",
+	"identifier": "com.pa.billthebluebot.slamjam",
+	"signature": "not yet implemented",
+	"version": "1.0.0",
+	"icon": "https://i.imgur.com/zpjvZtp.png",
+	"priority": 115,
+	"searchable": [
+		"slam",
+		"jam",
+		"effects",
+		"luther",
+		"billthebluebot"
+	],
+    "classicOnly": false,
+	"titansOnly": false
+}
